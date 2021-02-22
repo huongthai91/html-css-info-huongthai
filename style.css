@@ -1,0 +1,58 @@
+h1 {
+  color: #456268;
+  font-weight: bold;
+  text-align: center;
+  font-size: 36px;
+  font-family: Arial;
+}
+
+h2 {
+  color: #79a3b1;
+  text-align: center;
+  font-size: 22px;
+  font-family: Arial;
+}
+
+#header {
+  margin-left: 300px;
+  float: left;
+  margin-top: 50px;
+}
+
+#content {
+  background-color: #f4eeed;
+  color: #999b84;
+  text-align: center;
+  width: 1020px;
+  font-size: 16px;
+  font-family: Arial;
+  clear: left;
+  margin: 300px 80px 90px 80px;
+  padding: 30px;
+}
+
+#sidebar {
+  float: left;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+#content a:link {
+  color: #d8ac9c;
+  text-decoration: none;
+}
+
+#content a:visited {
+  color: #d8ac9c;
+  text-decoration: none;
+}
+
+#content a:hover {
+  color: #999b84;
+  text-decoration: underline;
+}
+
+#content a:active {
+  color: #d8ac9c;
+  text-decoration: none;
+}
